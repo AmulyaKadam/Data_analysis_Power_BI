@@ -171,6 +171,11 @@ Supermarket Type1 contributes \~65% of total revenue.
 
 ------------------------------------------------------------------------
 
+## 🏗️ Architecture
+
+![BlinkIt_Dashboard](./Images/Dashboard.png)
+
+
 # 📁 Folder Structure
 
 Data_analysis_Power_BI/ │ ├── Data/ ├── PowerBI_File/ ├── Images/ │ └──
