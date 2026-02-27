@@ -173,7 +173,7 @@ Supermarket Type1 contributes \~65% of total revenue.
 
 ## 🏗️ BlinkIt Dashboard
 
-![Dashboard](./Images/Dashboard.png)
+![Dashboard](./Images/Dashboard.PNG)
 
 
 # 📁 Folder Structure
